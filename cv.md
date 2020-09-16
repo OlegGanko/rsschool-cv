@@ -44,3 +44,15 @@ reverse(string);
 
 ### Experience
 For the last 7 years I have been working as a freelancer: vector illustrations, photographs and their processing.
+
+### Education
+2001-2006
+: BSUIR. Faculty of Computer Systems and Networks. Information technology software.
+
+### Languages
+   * English 
+        Until this year, I have not studied English professionally. Now I go to courses (Starter-A1). At the same time I study in the Duolingo mobile program.
+   * Русский
+   * Беларускi
+
+---
