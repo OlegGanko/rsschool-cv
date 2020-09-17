@@ -5,9 +5,122 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
+    <style>
+        html {
+            font: 16px "Times New Roma", Arial, sans-serif;
+            letter-spacing: 0.5px;
+        }
+
+        .outline {
+            max-width: 1024px;
+            margin: 0 auto;
+            padding: 40px;
+            border: dotted 1.5px black;
+            background-color: #E0FFFF;
+        }
+
+        .personal-photo img {
+            width: 200px;
+            height: 240px;
+            border-radius: 12px;
+        }
+
+        .header {
+            display: flex;
+            flex-wrap: wrap-reverse;
+            padding-bottom: 80px;
+        }
+
+        .name {
+            font-size: 3em;
+            color: #13324b;
+            letter-spacing: 3px;
+        }
+
+        .name-sub {
+            font-size: 1em;
+            padding-left: 50px;
+            letter-spacing: 1px;
+        }
+
+        .main {
+            display: flex;
+            flex-wrap: wrap;
+
+            text-align: justify;            
+        }
+
+        .i-profile {
+            width: 70%;
+        }
+
+        .main-title {
+            color: #13324b;
+        }
+
+        
+    </style>
 </head>
 
 <body>
-    
+    <div class="outline">
+
+        <header class="header">
+            <figure class="personal-photo">
+                <img src="personal_photo_small.jpg" alt="Oleg Gapeenko">
+            </figure>
+            <div style="padding: 50px 0px 0px 50px;">
+                <h1 class="name">Oleg Gapeenko</h1>
+                <h2 class="name-sub">Study in Rolling Scopes School</h2>
+            </div>
+        </header>
+
+        <main class="main">
+            <article class="i-profile">
+                
+                <section>
+                    <h3 class="main-title">Summary</h3>
+                    <p>
+                        In 2006 I graduated from an excellent specialty with a diploma "software engineer". 
+                        <br>
+                        Due to certain circumstances, he has been engaged in a different field of activity for 14 years, and has devoted the last 7 years to graphic design (<i>vector, photo, video</i>).
+                        <br> 
+                        Now I am at <b>RS School</b> and studying frontend development to become a professional in this field. 
+                        At the same time I study English.
+                    </p>
+                </section>
+                <section>
+                    <h3 class="main-title">Skiils</h3>
+                    <table>
+                        <tr>
+                            <td>
+                              <ul>
+                                <h4>Front-end:</h4>
+                                <li>JavaScript</li>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>Git</li>
+                              </ul>
+                            </td>
+                            <td style="padding-left: 60px;">                  
+                                <h4 style="padding-left: 40px;">Adobe:</h4>               
+                                <ul>
+                                    <li>Illustrator</li>
+                                    <li>Photoshop</li>
+                                    <li>Premiere</li>
+                                    <li>After Effect</li>
+                                </ul>
+                            </td>
+                        </tr>
+                            
+
+                </table>
+                </section>
+
+
+            </article>
+        </main>
+
+    </div>
 </body>
 </html>
