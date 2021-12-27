@@ -12,7 +12,7 @@
 
 ### Summary
 In 2006 I graduated from an excellent specialty with a diploma "software engineer". 
-Due to certain circumstances, he has been engaged in a different field of activity for 14 years, and has devoted the last 7 years to graphic design (*vector, photo, video*). 
+Due to certain circumstances, he has been engaged in a different field of activity for 14 years, and has devoted the last 8 years to graphic design (*vector, photo, video*). 
 Now I am at **`RS School`** and studying frontend development to become a professional in this field. 
 At the same time I study English.
 
@@ -41,3 +41,18 @@ const reverse = (string) => {
 
 reverse(string);
 ```
+
+### Experience
+For the last 8 years I have been working as a freelancer: vector illustrations, photographs and their processing.
+
+### Education
+2001-2006
+: BSUIR. Faculty of Computer Systems and Networks. Information technology software.
+
+### Languages
+   * English 
+        Until this year, I have not studied English professionally. Now I go to courses (Starter-A1). At the same time I study in the Duolingo mobile program.
+   * Русский
+   * Беларускi
+
+---
