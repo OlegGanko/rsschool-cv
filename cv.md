@@ -10,3 +10,8 @@
 * [Telegram](https://telegram.me/olegganko)
 * [GitHub](https://github.com/olegganko)
 
+### Summary
+In 2006 I graduated from an excellent specialty with a diploma "software engineer". 
+Due to certain circumstances, he has been engaged in a different field of activity for 14 years, and has devoted the last 7 years to graphic design (*vector, photo, video*). 
+Now I am at **`RS School`** and studying frontend development to become a professional in this field. 
+At the same time I study English.
