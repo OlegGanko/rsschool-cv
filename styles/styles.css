@@ -36,3 +36,11 @@ html {
     padding-left: 50px;
     letter-spacing: 1px;
 }
+
+
+
+.footer {
+    font-size: 0.75em;
+    color: #6c9d9d;
+    text-align: center;
+}
