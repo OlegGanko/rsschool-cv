@@ -3,3 +3,36 @@ html {
     letter-spacing: 0.5px;
     line-height: 1.5em;
 }
+
+.outline {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 40px;
+    border: dotted 1.5px black;
+    background-color: #E0FFFF;
+}
+
+.personal-photo img {
+    width: 200px;
+    height: 240px;
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.10);
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    padding-bottom: 80px;
+}
+
+.name {
+    font-size: 3em;
+    color: #13324b;
+    letter-spacing: 3px;
+}
+
+.name-sub {
+    font-size: 1em;
+    padding-left: 50px;
+    letter-spacing: 1px;
+}
