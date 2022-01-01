@@ -37,6 +37,36 @@ html {
     letter-spacing: 1px;
 }
 
+.main {
+    display: flex;
+    flex-wrap: wrap;
+
+    text-align: justify;            
+}
+
+.i-profile {
+    width: 70%;
+}
+
+.main-title {
+    color: #13324b;
+    padding-left: 25px;
+}
+
+.code-example {
+    background-color:#d7ecec;
+    width: 50%;
+    padding: 20px;
+    min-width: 300px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #009e9e;
+}
 
 
 .footer {
