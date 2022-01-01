@@ -68,6 +68,18 @@ a:hover {
     color: #009e9e;
 }
 
+.contact-info {
+    padding-left: 40px;
+    position: fixed;
+    top: 30%;
+    left: 65%;
+}
+.contact-info li {
+    list-style-type: none;
+}
+.contact-info h3 {
+    padding-left: 40px;
+}
 
 .footer {
     font-size: 0.75em;
