@@ -1,0 +1,88 @@
+html {
+    font: 15px "Helvetica", "Proxima Nova", "Garamond", "Times New Roma", Arial, sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1.5em;
+}
+
+.outline {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 40px;
+    border: dotted 1.5px black;
+    background-color: #E0FFFF;
+}
+
+.personal-photo img {
+    width: 200px;
+    height: 240px;
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.10);
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    padding-bottom: 80px;
+}
+
+.name {
+    font-size: 3em;
+    color: #13324b;
+    letter-spacing: 3px;
+}
+
+.name-sub {
+    font-size: 1em;
+    padding-left: 50px;
+    letter-spacing: 1px;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+
+    text-align: justify;            
+}
+
+.i-profile {
+    width: 70%;
+}
+
+.main-title {
+    color: #13324b;
+    padding-left: 25px;
+}
+
+.code-example {
+    background-color:#d7ecec;
+    width: 50%;
+    padding: 20px;
+    min-width: 300px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #009e9e;
+}
+
+.contact-info {
+    padding-left: 40px;
+    position: fixed;
+    top: 30%;
+    left: 65%;
+}
+.contact-info li {
+    list-style-type: none;
+}
+.contact-info h3 {
+    padding-left: 40px;
+}
+
+.footer {
+    font-size: 0.75em;
+    color: #6c9d9d;
+    text-align: center;
+}
